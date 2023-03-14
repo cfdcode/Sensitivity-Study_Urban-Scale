@@ -1,6 +1,8 @@
 # Sensitivity-Study_Urban-Scale
 This code is for the sensitivity study of an urban context - the comparative analysis between CFD results and wind tunnel testing outcomes. The Niigata city example by the Architectural Institute of Japan (AIJ) was chosen [1], [2], [3], [4], [5]. The code was created with C++ based on OpenFOAM source (v.9) [6].
 
+References
+
 [1] Mochida, A., Y. Tominaga, S. Murakami, R. Yshie, T. Ishihara, and R. Ooka. “Comparison of various k-ε models and DSM applied to flow around a high-rise building – report on AIJ cooperative project for CFD prediction of wind environment –.” Wind and Structures 5, no. 2-4 (April 2002): 227-44.
 https://doi.org/10.12989/was.2002.5.2_3_4.227.
 
